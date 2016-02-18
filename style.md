@@ -7,14 +7,14 @@ pour le projet.
  contenant au minimum des informations sur le nom de la classe, la description,  
  l'auteur et éventuellement d'autres commentaires utiles.
  Exemple :  
-/*
- * Nom de la classe : MaClasse
- *
- * Description   : description de la classe et de son rôle
- *
- * Auteur        : l'auteur
- *
- */
+    /*
+    * Nom de la classe : MaClasse
+    *
+    * Description   : description de la classe et de son rôle
+    *
+    * Auteur        : l'auteur
+    *
+    */
 
 ## Les clauses concernant les packages :
 
@@ -24,15 +24,15 @@ pour le projet.
  
 ## Les commentaires pour une méthode :
 
-/*
- * Description   : description de la methode et de son rôle.
- *
- * @param	   arg1 description du 1er argument
- *    :             :               :	
- * @param	   argN description du Neme argument
- * @return	   description de la valeur de retour
- *
- */
+    /*
+    * Description   : description de la methode et de son rôle.
+    *
+    * @param	   arg1 description du 1er argument
+    *    :             :               :	
+    * @param	   argN description du Neme argument
+    * @return	   description de la valeur de retour
+    *
+    */
  
  
 ## Indentation :
