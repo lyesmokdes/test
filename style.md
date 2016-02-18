@@ -81,8 +81,8 @@ pour le projet.
 ## Les espaces :
  
  Un espace vide devrait toujours être utilisé dans les cas suivants :
-    * entre un mot clé et une parenthèse. 
-    * après chaque virgule dans une liste d'argument.
-    * tous les opérateurs binaires doivent avoir un blanc qui les précèdent et
+ * entre un mot clé et une parenthèse. 
+ * après chaque virgule dans une liste d'argument.
+ * tous les opérateurs binaires doivent avoir un blanc qui les précèdent et
    qui les suivent.
   
