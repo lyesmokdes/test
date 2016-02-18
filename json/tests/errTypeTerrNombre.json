@@ -1,27 +1,27 @@
 {
-    "type_terrain": 2,
+    "type_terrain": 11,
     "prix_m2_min": "3.45 $",
     "prix_m2_max": "7.00 $",
-    "Lotissements": [
+    "lotissements": [
         {
-            "description": "Lot 1",
+            "description": "lot 1",
             "nombre_droits_passage": 4,
-            " nombre_services": 0,
+            " nombre_services": 10,
             "   superficie": 465,
             "date_mesure": "2015-10-14"
         },
         {
-            "description": " Lot 2",
+            "description": " lot 2",
             "nombre_droits_passage": 0,
-            " nombre_services": 1,
+            " nombre_services": -4,
             "superficie": 1082,
             "date_mesure": "2015-12-15"
         },
         {
-            "description": "Lot 3",
+            "description": "lot 3",
             "nombre_droits_passage": 8,
-            "nombre_services": 3,
-            " Superficie": 3333,
+            "nombre_services": 33,
+            " superficie": 3333,
             "date_mesure": "2013-06-20"
         }
     ]

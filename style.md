@@ -86,3 +86,4 @@ pour le projet.
  * tous les opérateurs binaires doivent avoir un blanc qui les précèdent et
    qui les suivent.
   
+
