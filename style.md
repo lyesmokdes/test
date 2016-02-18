@@ -6,7 +6,9 @@ pour le projet.
  Chaque fichier source devrait commencer par un commentaire multi-lignes 
  contenant au minimum des informations sur le nom de la classe, la description,  
  l'auteur et éventuellement d'autres commentaires utiles.
+
  Exemple :  
+
     /*
     * Nom de la classe : MaClasse
     *
@@ -47,9 +49,9 @@ pour le projet.
 
  Lorsqu'une expression ne tient pas sur une seule ligne , le couper en fonction
  de ces principes généraux :
- -couper la ligne après une virgule ou avant un opérateur.
- -aligner le début de la nouvelle ligne au début de l'expression coupée.
- -Si les règles ci-dessus conduisent à un code source en confusion ,
+ *couper la ligne après une virgule ou avant un opérateur.
+ *aligner le début de la nouvelle ligne au début de l'expression coupée.
+ *Si les règles ci-dessus conduisent à un code source en confusion ,
   un retrait de 8 espaces au debut de ligne à la place.
  
 ## Déclarations :
@@ -79,8 +81,8 @@ pour le projet.
 ## Les espaces :
  
  Un espace vide devrait toujours être utilisé dans les cas suivants :
-  -entre un mot clé et une parenthèse. 
-  -après chaque virgule dans une liste d'argument.
-  -tous les opérateurs binaires doivent avoir un blanc qui les précèdent et
+  *entre un mot clé et une parenthèse. 
+  *après chaque virgule dans une liste d'argument.
+  *tous les opérateurs binaires doivent avoir un blanc qui les précèdent et
    qui les suivent.
   
